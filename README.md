@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhijith J</h1>
-<h3 align="center">Software Developer from frontend working with MERN Stack.</h3>
+<h3 align="center">Software Developer working with MERN Stack.</h3>
+
 
 - 🔭 Worked on a Link-in-Bio platform [Landin](getlandin.com)
 
