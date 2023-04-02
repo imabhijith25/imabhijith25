@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer working with MERN Stack.</h3>
 
 
-- 🔭 Worked on a Link-in-Bio platform (<a href="getlandin.com">Landin</a>)
+- 🔭 Worked on a Link-in-Bio platform (<a href="https://getlandin.com">Landin</a>)
 
 - 👯 I am working on a logging platform for FE developers called **Logmatter**
 
