@@ -6,7 +6,7 @@
 
 - 👯 I am working on a logging platform for FE developers called **Logmatter**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **mail.abhijith1999@gmail.com**
 
